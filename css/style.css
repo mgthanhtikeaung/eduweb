@@ -51,6 +51,11 @@
 .ani-delay-5{
     animation-delay: 2.5s;
 }
+.top{
+    z-index: 2558;
+    background: #f5d5d59e;
+    backdrop-filter: blur(5px) contrast(130%);
+}
 @media screen and (max-width:1200px) {
     /* .home-img{
         position: absolute;
